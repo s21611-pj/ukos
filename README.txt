@@ -1,1 +1,2 @@
-hello world wojtek
+ala ma kota a kot ma ale
+hello world
