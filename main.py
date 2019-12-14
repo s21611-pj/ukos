@@ -1,6 +1,8 @@
-#!/use/bin/env python3
+#!/usr/bin/env python3
 
-def main():
-    print ("hello, world")
+import sys
 
-main()
+def main(argv):
+    print(argv)
+
+main(sys.argv)
