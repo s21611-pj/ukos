@@ -3,6 +3,6 @@
 import sys
 
 def main(argv):
-    print(argv)
+    print('\n'.join(argv))
 
 main(sys.argv)
